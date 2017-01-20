@@ -1,4 +1,4 @@
-# ex-navigation-snippets
+# ExNavigation Recipes
 The idea is to provide a list of useful recipes/snippets for ex-navigation
 
 ## Recipes
