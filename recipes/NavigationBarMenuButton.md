@@ -58,3 +58,5 @@ const buttonStyles = StyleSheet.create({
   },
 });
 ```
+
+by @sibelius
