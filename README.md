@@ -9,6 +9,8 @@ The idea is to provide a list of useful recipes/snippets for ex-navigation
 - [Navigation Bar Configuration](./recipes/NavigationBarConfiguration.md) - How to configure Navigation Bar
 - [Slide Vertical](./recipes/SlideVertical.md) - How can I slide my view from bottom up (transition) from one screen to the other?
 - [Alert Bar Redux](./recipes/AlertBarRedux.md) - How to show an alert bar using redux
+- [Redux store](./recipes/IntegrationRedux.md) - Integrate with your existing Redux store
+- [Outside of a component](./recipes/OutsideComponent.md) - Perform navigation actions from outside of a component
 
 ## How to contribute
 Fork this repo
