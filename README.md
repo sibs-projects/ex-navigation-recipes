@@ -8,6 +8,7 @@ The idea is to provide a list of useful recipes/snippets for ex-navigation
 - [Screen Tracking and Analytics](./recipes/ScreenTracking.md) - Easily track screen events
 - [Navigation Bar Configuration](./recipes/NavigationBarConfiguration.md) - How to configure Navigation Bar
 - [Slide Vertical](./recipes/SlideVertical.md) - How can I slide my view from bottom up (transition) from one screen to the other?
+- [Alert Bar Redux](./recipes/AlertBarRedux.md) - How to show an alert bar using redux
 
 ## How to contribute
 Fork this repo
