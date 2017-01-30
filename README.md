@@ -11,6 +11,7 @@ The idea is to provide a list of useful recipes/snippets for ex-navigation
 - [Alert Bar Redux](./recipes/AlertBarRedux.md) - How to show an alert bar using redux
 - [Redux store](./recipes/IntegrationRedux.md) - Integrate with your existing Redux store
 - [Outside of a component](./recipes/OutsideComponent.md) - Perform navigation actions from outside of a component
+- [NavBar Communication](./recipes/NavBarCommunication.md) - How to communicate between navigationBar and your component?
 
 ## How to contribute
 Fork this repo
